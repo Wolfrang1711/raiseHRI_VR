@@ -1,0 +1,5 @@
+[31m[1mCMake Error[0m at /home/pratik/ROS/src/panda_moveit/CMakeLists.txt:13 (roslaunch_add_file_check):
+  Unknown CMake command "roslaunch_add_file_check".
+
+
+make: *** [Makefile:1244: cmake_check_build_system] Error 1

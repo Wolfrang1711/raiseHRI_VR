@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: ""
+    relative_path: /home/pratik/Downloads/panda.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/panda.srdf
+  CONFIG:
+    author_name: Pratik Sahoo
+    author_email: pratik.sahoo@mail.mcgill.ca
+    generated_timestamp: 1718829875
