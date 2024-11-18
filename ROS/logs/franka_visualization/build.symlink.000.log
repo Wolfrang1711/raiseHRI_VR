@@ -1,5 +1,0 @@
-Symlinking /home/pratik/ROS/devel/lib/franka_visualization/robot_joint_state_publisher
-Symlinking /home/pratik/ROS/devel/lib/franka_visualization/gripper_joint_state_publisher
-Symlinking /home/pratik/ROS/devel/lib/pkgconfig/franka_visualization.pc
-Symlinking /home/pratik/ROS/devel/share/franka_visualization/cmake/franka_visualizationConfig.cmake
-Symlinking /home/pratik/ROS/devel/share/franka_visualization/cmake/franka_visualizationConfig-version.cmake

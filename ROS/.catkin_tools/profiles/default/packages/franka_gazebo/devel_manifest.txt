@@ -1,7 +1,0 @@
-panda_ros/franka_gazebo
-/home/pratik/ROS/devel/.private/franka_gazebo/cmake.lock /home/pratik/ROS/devel/./cmake.lock
-/home/pratik/ROS/devel/.private/franka_gazebo/lib/libfranka_hw_sim.so /home/pratik/ROS/devel/lib/libfranka_hw_sim.so
-/home/pratik/ROS/devel/.private/franka_gazebo/lib/libfranka_gripper_sim.so /home/pratik/ROS/devel/lib/libfranka_gripper_sim.so
-/home/pratik/ROS/devel/.private/franka_gazebo/lib/pkgconfig/franka_gazebo.pc /home/pratik/ROS/devel/lib/pkgconfig/franka_gazebo.pc
-/home/pratik/ROS/devel/.private/franka_gazebo/share/franka_gazebo/cmake/franka_gazeboConfig-version.cmake /home/pratik/ROS/devel/share/franka_gazebo/cmake/franka_gazeboConfig-version.cmake
-/home/pratik/ROS/devel/.private/franka_gazebo/share/franka_gazebo/cmake/franka_gazeboConfig.cmake /home/pratik/ROS/devel/share/franka_gazebo/cmake/franka_gazeboConfig.cmake

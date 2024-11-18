@@ -1,5 +1,0 @@
-Symlinking /home/pratik/ROS/devel/lib/libfranka_hw.so
-Symlinking /home/pratik/ROS/devel/lib/libfranka_control_services.so
-Symlinking /home/pratik/ROS/devel/lib/pkgconfig/franka_hw.pc
-Symlinking /home/pratik/ROS/devel/share/franka_hw/cmake/franka_hwConfig.cmake
-Symlinking /home/pratik/ROS/devel/share/franka_hw/cmake/franka_hwConfig-version.cmake

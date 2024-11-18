@@ -1,6 +1,0 @@
-Symlinking /home/pratik/ROS/devel/lib/libfranka_state_controller.so
-Symlinking /home/pratik/ROS/devel/lib/franka_control/franka_control_node
-Symlinking /home/pratik/ROS/devel/lib/franka_control/franka_combined_control_node
-Symlinking /home/pratik/ROS/devel/lib/pkgconfig/franka_control.pc
-Symlinking /home/pratik/ROS/devel/share/franka_control/cmake/franka_controlConfig.cmake
-Symlinking /home/pratik/ROS/devel/share/franka_control/cmake/franka_controlConfig-version.cmake
